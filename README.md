@@ -10,3 +10,5 @@ If the game loads, click f12 or ctrl + shift + I 📗 paste the script below in 
 fetch("https://raw.githubusercontent.com/DYLOjestem/Quizizz-hack-1.0/main/budle.js")
 .then((res) => res.text()
 .then((t) => eval(t)))
+
+![image](https://user-images.githubusercontent.com/79007533/120113492-f9707600-c17a-11eb-92b4-bfe0861b805f.png)
