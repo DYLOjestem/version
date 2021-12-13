@@ -1,0 +1,1 @@
+let url=prompt("Background url");var ifrm=document.createElement("iframe");ifrm.setAttribute("id","ifrm");var el=document.getElementById("techAnnotationWrap");el.parentNode.insertBefore(ifrm,el),ifrm.setAttribute("src",""+url),ifrm.style.width="13000px",ifrm.style.height="500px";
