@@ -5,7 +5,7 @@ elem.style = `color: #4DFF00; position: fixed; z-index: 2147483647; right: 0; bo
 elem.style.background = 'black';
 elem.onclick = () => {
     let x = document.createElement('script');
-    x.src = 'https://raw.githubusercontent.com/DYLOjestem/version/main/Imgurl.js';
+    x.src = 'https://cdn.jsdelivr.net/gh/DYLOjestem/version@main/Imgurl.js';
     x.onload = () => { x.remove() };
     (document.head || document.documentElement).appendChild(x);
 
