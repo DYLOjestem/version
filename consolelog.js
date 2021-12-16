@@ -1,0 +1,1 @@
+console.log("%c[Test Portal Cheat Version] Versions Available","color: aqua"),console.log("   "),console.log("%c[Test Portal Cheat Version] 1.0.0","color: red"),console.log("%c[Test Portal Cheat Version] 1.0.1 (acctualy)","color: yellow"),console.log("%c[Test Portal Cheat Version] 1.0.2","color: red"),console.log("%c[Test Portal Cheat Version] 1.0.3","color: red")
